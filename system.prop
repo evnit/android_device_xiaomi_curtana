@@ -1,6 +1,4 @@
-ro.display.series=Redmi Note 9S
-ro.product.board=atoll
-ro.board.platform=atoll
+ro.display.series=Redmi Note 9 Pro
 sys.usb.controller=a600000.dwc3
 sys.usb.rndis.func.name=rndis_bam
 sys.usb.rmnet.func.name=rmnet_bam
